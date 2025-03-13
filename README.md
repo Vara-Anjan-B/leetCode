@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
