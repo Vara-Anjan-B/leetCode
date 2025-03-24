@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vara-Anjan-B/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vara-Anjan-B/leetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vara-Anjan-B/leetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Vara-Anjan-B/leetCode/tree/master/0169-majority-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vara-Anjan-B/leetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vara-Anjan-B/leetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vara-Anjan-B/leetCode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vara-Anjan-B/leetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Vara-Anjan-B/leetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vara-Anjan-B/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vara-Anjan-B/leetCode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vara-Anjan-B/leetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vara-Anjan-B/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
