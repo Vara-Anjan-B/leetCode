@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vara-Anjan-B/leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vara-Anjan-B/leetCode/tree/master/0066-plus-one) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vara-Anjan-B/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vara-Anjan-B/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
